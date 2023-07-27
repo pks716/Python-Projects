@@ -1,2 +1,3 @@
 # Python-Projects
-Python scripts of projects made so far
+Following is the list of the projects:
+1) Keylogger
