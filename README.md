@@ -10,3 +10,4 @@ Following is the list of the projects:
 8) Gui based Prediction model
 9) Handwritten Digit recognition using SVM
 10) Drowsiness Detector
+11) Road Sign Recognition
