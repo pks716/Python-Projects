@@ -6,4 +6,5 @@ Following is the list of the projects:
 4) Color based Object detection
 5) Face recognition and dataset creation
 6) Emotion recognition
-7) Hand Gesture Recognition   
+7) Hand Gesture Recognition
+8) Gui based Prediction model
